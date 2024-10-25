@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377877559465",
+    "project_id": "codelabfirebase-75ee8",
+    "storage_bucket": "codelabfirebase-75ee8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377877559465:android:ac4cd7119beae21b8ad1b8",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPjD7bjLTec-UJinlnDdrZrd1ewbLmpf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
